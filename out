@@ -1,0 +1,5 @@
+
+
+#load data
+world_cup = pd.read_csv('datasets/World Cup 2018 Dataset.csv')
+results = pd.read_csv('datasets/results.csv')
